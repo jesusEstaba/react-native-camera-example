@@ -8,7 +8,8 @@
 	},
 	"dependencies": {
 		"react": "16.0.0",
-		"react-native": "0.50.0"
+		"react-native": "0.50.0",
+		"react-native-camera": "git://github.com/jesusEstaba/react-native-camera#v0.9.4-legacy"
 	},
 	"devDependencies": {
 		"babel-jest": "23.6.0",
